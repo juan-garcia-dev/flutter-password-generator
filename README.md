@@ -13,7 +13,6 @@ Una aplicación moderna desarrollada en Flutter para generar contraseñas segura
 
 - Flutter & Dart
 - Provider (Gestión de estado)
-- Google Fonts
 
 ## 🚀 Cómo probarla
 
