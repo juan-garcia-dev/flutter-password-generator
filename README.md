@@ -1,3 +1,3 @@
-# flutter_application_1
+# Generador de Contraseñas Seguro 🔒
 
-A new Flutter project.
+Una aplicación moderna desarrollada en Flutter para generar contraseñas seguras y gestionarlas localmente.
