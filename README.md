@@ -1,5 +1,9 @@
 # Generador de Contraseñas Seguro 🔒
 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypal.me/Juangc044)
+
+
 Una aplicación moderna desarrollada en Flutter para generar contraseñas seguras y gestionarlas localmente.
 
 ## ✨ Características
