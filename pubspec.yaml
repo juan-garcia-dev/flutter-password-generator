@@ -1,0 +1,47 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.5+1
+  google_fonts: ^6.3.3
+  flutter_donation_buttons: ^0.4.10
+  flutter_dotenv: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.13.1"
+  flutter_native_splash: ^2.3.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/
+    - .env
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/clavegen_icon.png" 
+  min_sdk_android: 21
+
+
+flutter_native_splash:
+  color: "#FFFFFF" 
+  image: "assets/icon/clavegen_icon.png" 
+  branding: "assets/icon/brand.png"
+  android_12:
+    image: "assets/icon/clavegen_icon.png"
+    color: "#FFFFFF"
+    branding: "assets/icon/brand.png"
+
+  android: true
+  ios: true
